@@ -20,7 +20,7 @@ export default new Router({
     {
       // 主页
       path: '/home',
-      name: '主页',
+      name: '主页主页',
       component: require('../views/index/index.vue').default,
       // 含有文件夹的文件children
       children: [
